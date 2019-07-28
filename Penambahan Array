@@ -1,0 +1,13 @@
+X = [10, 20, 40, 80]
+Y = [1, 2, 4, 8]
+
+# Menghitung Jumlah Nilai Kedua Array
+TotalX = sum(X)
+TotalY = sum(Y)
+Jumlah = TotalX + TotalY
+print("Jumlah Nilai Kedua Array")
+print(Jumlah)
+
+# Menggabungkan Data Kedua Array
+print("Menggabungkan Data Kedua Array")
+print(X+Y)
